@@ -1,1 +1,1 @@
-# Desafio-T-cnico-Avanade
+# Desafio-Tecnico-Avanade
